@@ -1,2 +1,3 @@
 # minium-function
-'''this code displays minimum function '''
+
+This code displays minimum function!! 
